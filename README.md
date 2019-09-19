@@ -1,6 +1,6 @@
 # polster
 
-> My riveting Nuxt.js project
+> My striking Nuxt.js project
 
 ## Build Setup
 
